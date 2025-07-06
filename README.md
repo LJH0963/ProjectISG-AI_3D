@@ -6,6 +6,14 @@
 
 ---
 
+## 🤖 Discord Bot 동작 예시
+
+아래는 **Discord**를 통해 프롬프트를 입력하고, **3D 에셋**이 자동으로 생성되는 모습입니다.
+
+![Discord Demo](asset/Demo.gif)
+
+---
+
 ## 🚀 목표
 
 - 게임 아이콘 제작 및 3D Mesh 생성 과정을 **자동화**하여 인력 비용 및 제작 시간을 절감
@@ -55,6 +63,8 @@
 📁 ProjectISG-AI_3D
 ├── core/
 │   └── config.py         # 환경 변수 설정 모듈
+├── asset/
+│   └── Demo.gif          # Discord 실행 Demo 영상
 ├── output/               # 생성 이미지 저장 경로
 ├── tmp/                  # 업로드 파일 임시 저장 경로
 ├── comfy_mv_api.py       # ComfyUI 프롬프트 이미지 + 텍스처 생성 서버
