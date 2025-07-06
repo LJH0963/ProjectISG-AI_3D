@@ -6,19 +6,19 @@
 
 ---
 
-## 🤖 Discord Bot 동작 예시
-
-아래는 **Discord**를 통해 프롬프트를 입력하고, **3D 에셋**이 자동으로 생성되는 모습입니다.
-
-![Discord Demo](asset/Demo.gif)
-
----
-
 ## 🚀 목표
 
 - 게임 아이콘 제작 및 3D Mesh 생성 과정을 **자동화**하여 인력 비용 및 제작 시간을 절감
 - LLM과 ComfyUI 기반 생성 모델을 연계하여 **간편한 프론트엔드 UX 제공**
 - Web UI(Streamlit) 또는 Discord Bot을 통한 **멀티 채널 접근성 제공**
+
+---
+
+## 🤖 Discord Bot 동작 예시
+
+아래는 **Discord**를 통해 프롬프트를 입력하고, **3D 에셋**이 자동으로 생성되는 모습입니다.
+
+![Discord Demo](asset/Demo.gif)
 
 ---
 
