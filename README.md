@@ -4,6 +4,8 @@
 
 📎 **[최종 발표 자료 보기(Canva)](https://www.canva.com/design/DAGpFri1Psc/8Qdu-G4EM12JpsM9bEOmXg/view?utm_content=DAGpFri1Psc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h09cc5a9eb8)**
 
+📎 **[시연 영상 보기](https://drive.google.com/file/d/16N3IIfTrkOFcfqBd9p5oeqGPh-f5a1jY/view?usp=drive_link)**
+
 ---
 
 ## 🚀 목표
